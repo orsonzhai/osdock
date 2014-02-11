@@ -60,6 +60,8 @@ But I think it is no need to add free in front of open-source for reasons as
 - multiple languages support
 - multiple regions support
 - OAuth login with open-source communities as many as possible
+- consider mobile app
+- easy to make comments everywhere
 
 
 
